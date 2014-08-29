@@ -226,5 +226,6 @@
     </vendor>
     <vendor Name="ZTE">
         <device FullName="Blade 3" CodeName="atlas40"/>
+        <device FullName="Skate" CodeName="skate"/>
     </vendor>
 </devices>

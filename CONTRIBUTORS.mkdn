@@ -354,6 +354,7 @@ Xiaomi:
 ZTE:
 ---------------------------------------------------------------------
 * __Blade 3 (atlas40) :__ KonstaT, robt77
+* __Skate (skate) :__ Fagyi
 
 
 Total Devices: 177

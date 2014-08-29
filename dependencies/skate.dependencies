@@ -1,0 +1,44 @@
+[
+    {
+        "account":      "Fagyi",
+        "repository":   "android_device_zte_skate",
+        "target_path":  "device/zte/skate",
+        "branch":       "cm-11.0"
+    },
+    {
+        "account":      "Fagyi",
+        "repository":   "android_device_zte_msm7x27-common",
+        "target_path":  "device/zte/msm7x27-common",
+        "branch":       "cm-11.0"
+    },
+    {
+        "account":      "Fagyi",
+        "repository":   "android_kernel_zte_msm7x27",
+        "target_path":  "kernel/zte/msm7x27",
+        "branch":       "cm-11.0"
+    },
+    {
+        "account":      "androidarmv6",
+        "repository":   "android_device_qcom_msm7x27",
+        "target_path":  "device/qcom/msm7x27",
+        "branch":       "cm-11.0"
+    },
+    {
+        "account":      "androidarmv6",
+        "repository":   "android_vendor_qcom_msm7x27",
+        "target_path":  "vendor/qcom/msm7x27",
+        "branch":       "cm-11.0"
+    },
+    {
+        "account":      "androidarmv6",
+        "repository":   "android_vendor_google",
+        "target_path":  "vendor/google",
+        "branch":       "cm-11.0"
+    },
+    {
+        "account":      "androidarmv6",
+        "repository":   "proprietary_vendor_zte",
+        "target_path":  "vendor/zte",
+        "branch":       "cm-11.0"
+    }
+]

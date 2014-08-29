@@ -183,3 +183,4 @@ add_lunch_combo pac_urushi-userdebug
 add_lunch_combo pac_aries-userdebug
 # ZTE
 add_lunch_combo pac_atlas40-userdebug
+add_lunch_combo pac_skate-userdebug
