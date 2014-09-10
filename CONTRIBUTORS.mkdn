@@ -173,6 +173,7 @@ LG:
 * __Optimus L7 (p700) :__ aidasaidas75
 * __Optimus L7 (p705) :__ coderzstas
 * __Optimus G  (e973) :__ ShoreDroid
+* __Optimus G  (e975) :__ ShoreDroid
 * __Optimus G Pro (e980) :__ machinistsWIP
 
 Motorola:
@@ -251,7 +252,7 @@ Samsung:
 * __Galaxy S IV (C-Spire) (jflte) :__ RIPng
 * __Galaxy S IV (LTE) (jflte) :__ metaiiica, vertigo2012
 * __Galaxy S IV (Sprint) (jflte) :__ Sniper
-* __Galaxy S IV (T-Mobile) (jflte) :__ Nick0703
+* __Galaxy S IV (T-Mobile) (jflte) :__ JoseGalRe, Nick0703
 * __Galaxy S IV (US Cellular) (jflte) :__ Sniper
 * __Galaxy S IV (Verizon) (jflte) :__ RIPng
 * __Galaxy Tab 2 10" (p5100) :__ pvyParts
@@ -295,7 +296,7 @@ ZTE:
 * __Blade 3 (atlas40) :__ KonstaT, robt77
 * __Skate (skate) :__ Fagyi
 
-Total Devices: 135
+Total Devices: 136
 
 Best regards
     szl.kiev
