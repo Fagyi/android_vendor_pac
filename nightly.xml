@@ -19,6 +19,7 @@
   <!-- <device name="acclaim"/> -->
   <!-- <device name="apexqtmo"/> -->
   <device name="amami"/>
+  <device name="aries"/>
   <device name="bacon"/>
   <device name="d2lte"/>
   <device name="d801"/>
@@ -28,11 +29,13 @@
   <device name="e980"/>
   <device name="evita"/>
   <device name="expressatt"/>
+  <device name="falcon"/>
   <!-- <device name="find5"/> -->
   <device name="flo"/>
   <device name="grouper"/>
+  <device name="ghost"/>
   <device name="hammerhead"/>
-  <device name="hlte"/>
+  <!-- <device name="hlte"/> -->
   <device name="holiday"/>
   <device name="honami"/>
   <!-- <device name="i605"/> -->
@@ -53,7 +56,6 @@
   <!-- <device name="mako"/> -->
   <device name="moto_msm8960_jbbl"/>
   <device name="moto_msm8960"/>
-  <device name="moto_msm8960dt"/>
   <device name="n5100"/>
   <device name="n5110"/>
   <device name="n5120"/>
@@ -69,7 +71,7 @@
   <device name="tate"/>
   <!-- <device name="tf300t"/> -->
   <!-- <device name="tf700t"/> -->
-  <device name="umts_spyder "/>
+  <!-- <device name="umts_spyder "/> -->
   <device name="venturi"/>
   <device name="yuga"/>
 </manifest>
