@@ -47,13 +47,14 @@
   <device name="jem"/>
   <device name="jflte"/>
   <!-- <device name="l900"/> -->
+  <device name="ls970"/>
   <device name="ls980"/>
   <device name="m4"/>
   <device name="m7"/>
   <device name="m7spr"/>
   <device name="m8"/>
   <!-- <device name="maguro"/> -->
-  <!-- <device name="mako"/> -->
+  <device name="mako"/>
   <device name="moto_msm8960_jbbl"/>
   <device name="moto_msm8960"/>
   <device name="n5100"/>
@@ -67,7 +68,7 @@
   <!-- <device name="t0lte"/> -->
   <!-- <device name="t0lteatt"/> -->
   <!-- <device name="t0ltetmo"/> -->
-  <!-- <device name="taoshan"/> -->
+  <device name="taoshan"/>
   <device name="tate"/>
   <!-- <device name="tf300t"/> -->
   <!-- <device name="tf700t"/> -->
