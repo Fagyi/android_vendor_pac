@@ -178,8 +178,10 @@ if [ "$opt_recovery" -eq 1 ]; then
 elif [ "$opt_recovery" -eq 2 ]; then
     echo -e ""
     echo -e ${bldblu}"CM Recovery will be built"${txtrst}
-    export RECOVERY_VARIANT=cwm
+    export RECOVERY_VARIANT=cm
     echo -e ""
+else
+    unset RECOVERY_VARIANT
 fi
 
 # Disable ADB authentication and set root access to Apps and ADB
@@ -199,6 +201,7 @@ if [ "$opt_reset" -ne 0 ]; then
 fi
 
 # take snapshot of current sources
+echo -e ${bldblu}"Making a snapshot of the repo"${txtrst}
 repo manifest -o snapshot-$device.xml -r
 echo -e ""
 

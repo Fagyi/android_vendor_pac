@@ -121,7 +121,7 @@ ASUS:
 Barnes & Noble:
 ---------------------------------------------------------------------
 * __Nook (acclaim) :__ LowEndGeek
-* __Nook HD+ (ovation) :__ DarkStarr
+* __Nook HD+ (ovation) :__ iPzard
 
 
 HP:
@@ -266,8 +266,8 @@ Sony:
 * __Xperia M (nicki) :__ Abhinav1997
 * __Xperia SP (huashan) :__ neXusPRIME
 * __Xperia T (mint) :__ Abhinav1997
-* __Xperia Tablet Z LTE (pollux) :__ bluefa1con
-* __Xperia Tablet Z (pollux_windy) :__ bluefa1con
+* __Xperia Tablet Z LTE (pollux) :__ skiwong20, bluefa1con
+* __Xperia Tablet Z (pollux_windy) :__ skiwong20, bluefa1con
 * __Xperia V (tsubasa) :__ Abhinav1997
 * __Xperia Z (yuga) :__ jeroenqui, pvyParts
 * __Xperia Z1 (honami) :__ jeroenqui, Langes
