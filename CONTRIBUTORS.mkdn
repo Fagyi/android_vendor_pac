@@ -205,7 +205,7 @@ OnePlus:
 Oppo:
 ---------------------------------------------------------------------
 * __Find5 (find5) :__ eoghan2t7
-
+* __N1 (n1) :__ Trialsrider1
 
 Samsung:
 ---------------------------------------------------------------------
@@ -298,7 +298,7 @@ ZTE:
 * __Blade 3 (atlas40) :__ KonstaT, robt77
 * __Skate (skate) :__ Fagyi
 
-Total Devices: 136
+Total Devices: 137
 
 Best regards
     szl.kiev
